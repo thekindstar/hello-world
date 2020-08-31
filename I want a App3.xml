@@ -1,0 +1,226 @@
+<mxfile host="app.diagrams.net" modified="2020-08-31T09:39:44.605Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="gZO5SRY5Yo8MnO_OZJEX" version="13.6.5" type="github">
+  <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
+    <mxGraphModel dx="846" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DZB5AjlQvIbF3KkGmv70-12" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;strokeColor=#FFFFFF;fillColor=#B86F00;" parent="1" vertex="1">
+          <mxGeometry x="1463" y="70" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="DZB5AjlQvIbF3KkGmv70-13" value="最终计划中APP&lt;br&gt;与&lt;br&gt;相碰任务与计划" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#8D54FF;" parent="1" vertex="1">
+          <mxGeometry x="1689" y="225" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="DZB5AjlQvIbF3KkGmv70-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="1553" y="243" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DZB5AjlQvIbF3KkGmv70-15" value="合并与集成分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1461" y="99" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DZB5AjlQvIbF3KkGmv70-16" value="&lt;span&gt;先实现一个小目标，是一种奖励！&lt;br&gt;之后你升级了。&lt;br&gt;它可扩展新功能，你可以学新技能了&lt;br&gt;我们都在进步并更有信心的走下去。&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1461" y="399" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DZB5AjlQvIbF3KkGmv70-17" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1481" y="159" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DZB5AjlQvIbF3KkGmv70-18" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1481" y="379" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-2" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="327" y="79" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-3" value="目标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="327" y="99" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-4" value="动机， 产生了！&lt;br&gt;也许因为失业，爱情，或也有可能是&lt;br&gt;突然的灵感等，总之有很多可能。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="327" y="399" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-6" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="347" y="159" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="347" y="379" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-8" value="动机" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#BFB4A9;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="270" y="219" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="417" y="247" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-17" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFC001;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="607" y="79" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-18" value="计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="607" y="99" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-19" value="疫情下很多人失业或转业中，&lt;br&gt;但要坚强生存下去。&lt;br&gt;重拾信心，需要引导，心理上的与行动上的。但希望它不要复杂化，而是一步一步的。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="607" y="399" width="284" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="627" y="159" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-21" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="627" y="379" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-22" value="要做一个&lt;br&gt;App" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#397DAA;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="550" y="219" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="697" y="247" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-24" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFB001;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="887" y="79" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-25" value="分解与最小化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="887" y="99" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-26" value="不管它最终是果汁或水彩画，但现在&lt;br&gt;它可能只是一个小水滴。&lt;br&gt;特点：来源于海洋，H2O，无色无味&lt;br&gt;最基本的... ，却最坚韧。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="887" y="399" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-27" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="907" y="159" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-28" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="907" y="379" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-29" value="什么样的App?&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#EF9353;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="830" y="219" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="977" y="247" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-31" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FE9900;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1167" y="79" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-32" value="分析与计划可行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1167" y="99" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-33" value="计划可行性：最小化任务表+你的情况&lt;br&gt;为了成功！&lt;br&gt;你有可能调整自己的情况。&lt;br&gt;为了信心！&lt;br&gt;要简化 ，也要条理化，可扩展与可进步化的。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1167" y="399" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-34" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1187" y="159" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-35" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1187" y="379" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-36" value="最小化任务列表" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#68B85C;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="219" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="1257" y="247" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-38" value="可扩展任务列表" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#BF639A;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="219" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-1" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;strokeColor=#FFFFFF;fillColor=#2B474F;" parent="1" vertex="1">
+          <mxGeometry x="1453" y="590" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-2" value="最终计划中APP&lt;br&gt;与&lt;br&gt;相碰任务与计划" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#8D54FF;" parent="1" vertex="1">
+          <mxGeometry x="1679" y="745" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="1543" y="763" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-4" value="合并任务与集成分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1451" y="619" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-5" value="&lt;span&gt;先实现一个小目标，是一种奖励！&lt;br&gt;之后你升级了。&lt;br&gt;它可扩展新功能，你可以学新技能了&lt;br&gt;我们都在进步并更有信心的走下去。&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1451" y="919" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-6" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1471" y="679" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1471" y="899" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-8" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;strokeColor=#FFFFFF;fillColor=#85D6FF;" parent="1" vertex="1">
+          <mxGeometry x="317" y="599" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-9" value="目标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="317" y="619" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-10" value="动机， 产生了！&lt;br&gt;也许因为失业，爱情，或也有可能是&lt;br&gt;突然的灵感等，总之有很多可能。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="317" y="919" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-11" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="337" y="679" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-12" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="337" y="899" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-13" value="动机" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#BFB4A9;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="260" y="739" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="407" y="767" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-15" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;strokeColor=#FFFFFF;fillColor=#69A9C9;" parent="1" vertex="1">
+          <mxGeometry x="597" y="599" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-16" value="计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="597" y="619" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-17" value="疫情下很多人失业或转业中，&lt;br&gt;但要坚强生存下去。&lt;br&gt;重拾信心，需要引导，心理上的与行动上的。但希望它不要复杂化，而是一步一步的。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="597" y="919" width="284" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-18" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="617" y="679" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-19" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="617" y="899" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-20" value="要做一个&lt;br&gt;App" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#397DAA;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="540" y="739" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="687" y="767" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-22" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;strokeColor=#FFFFFF;fillColor=#5990AB;" parent="1" vertex="1">
+          <mxGeometry x="877" y="599" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-23" value="分解与最小化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="877" y="619" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-24" value="不管它最终是果奶或水彩画，但现在&lt;br&gt;它可能只是一个小水滴。&lt;br&gt;特点：来源于海洋，H2O，无色无味&lt;br&gt;最基本的... ，却最坚韧。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="877" y="919" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="897" y="679" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-26" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="897" y="899" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-27" value="什么样的App?&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#EF9353;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="820" y="739" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="967" y="767" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-29" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;strokeColor=#FFFFFF;fillColor=#41697D;" parent="1" vertex="1">
+          <mxGeometry x="1157" y="599" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-30" value="分析任务与计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1157" y="619" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-31" value="计划可行性：最小化任务表+你的情况&lt;br&gt;为了成功！&lt;br&gt;你有可能调整自己的情况。&lt;br&gt;为了信心！&lt;br&gt;要简化 ，也要条理化，可扩展与可进步化的。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1157" y="919" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-32" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1177" y="679" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-33" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1177" y="899" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-34" value="最小化任务列表" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#68B85C;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="739" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="1247" y="767" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgrpxLIQ6gLv8iCWu-Zy-36" value="可扩展任务列表" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#BF639A;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="739" width="115" height="115" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
